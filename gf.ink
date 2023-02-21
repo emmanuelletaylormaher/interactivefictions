@@ -1,5 +1,3 @@
-
-
 VAR gf_mad=0
 VAR first_response=2
 
@@ -45,7 +43,7 @@ VAR first_response=2
     -2: "Alrighty then."
     -3: "Don't let it happen again."
     -4: "Ugh, whatever."
-    -5: "Fuck you. Fuck you and fuck off."
+    -else: "Fuck you. Fuck you and fuck off."
 }
 
 //conclusion
